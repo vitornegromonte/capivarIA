@@ -13,5 +13,5 @@ load_dotenv()
 
 client = openai.OpenAI()
 
-model = 'gpt3.5-turbo-16k'
+model = 'gpt-3.5-turbo-1106'
 
